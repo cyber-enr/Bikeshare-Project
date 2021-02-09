@@ -9,7 +9,8 @@ evaluation to display information on bikeshare statistics. The information
 required and given is valid for anyone trying to start their own business.
 Outputs such as most common days or most common stations are given to facilitate
 user experience and see which cities have more sharing statistics in bulk and
-further evaluate other foreseeable information.
+further evaluate other foreseeable information. Beginner steps in becoming fluent
+coder.
 
 ---------------------------------------------------------------------------------
 ### Program:
