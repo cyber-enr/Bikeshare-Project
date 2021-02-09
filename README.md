@@ -21,8 +21,17 @@ or use any python type program to execute. In my case, Spyder , through Anaconda
 ### Details:
 Three cities are given along with their specific information. Out of these,
 the program takes the initial input from the user for the city, month and day.
+User is asked consecutively to input each option. All options are NOT case sensitive.
 
-Upon receiving the user input, a series of blocks of code are executed to extract
+1. For city, three options are given: Chicago, New York City & Washington.
+
+2. For month, choices are given varying from January to Sunday including 'all'
+which gives us the data for all choices.
+
+3. For day, choices are given varying from Monday to Sunday including 'all' which
+gives us the data for all choices.
+
+Upon receiving the user input, the program executes a series of blocks to extract
 the information shown below:
 
 **Most common**:
