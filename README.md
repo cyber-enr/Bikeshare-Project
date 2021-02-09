@@ -25,7 +25,7 @@ the program takes the initial input from the user for the city, month and day.
 Upon receiving the user input, a series of blocks of code are executed to extract
 the information shown below:
 
-Most common:
+**Most common**:
 
 - Month
 - Day
@@ -41,24 +41,24 @@ to view raw data (**5 rows of initial block code**) or not. Following the
 input received, the program prints the following details:
 
 - Subscriber and customer count
-- Type of users by number
-- Type of users by gender
+- Type of users by **number**
+- Type of users by **gender**
 - The oldest user
 - The youngest user
 - The most common birth year amongst users
 
 Once this is executed the next function in the program gives us
-a plotting scenario in which , two variables are compared: *user age*
+a plotting scenario in which, two variables are compared: *user age*
 and *trip duration* with the bikes.
 
-**_Important to note that only CHICAGO and NEW YORK CITY have
-all the outputs available but Washington is missing user information
+_Important to note that only **CHICAGO** and **NEW YORK CITY** have
+all the outputs available. Washington on the other hand is missing user information
 such as: gender & age. Thus the code has been altered to not give any
-errors when inputting Washington_**.
+errors when inputting Washington_.
 
 Finally, the user is prompted with the choice of restarting the program or not.
 
-----------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 ### Requirements
 **Language**: _Python 3.8 or above_
 
@@ -74,7 +74,8 @@ to call in python:
 - washington.csv - Dataset containing all bikeshare information for the city of Washington.
 Not included in the dataset information on the 'Gender' or 'Birth Year'.
 
-**_Websites utilized to further expand the knowledge obtained in UDACITY:_**
+---------------------------------------------------------------------------------
+### _BIBLIOGRAPHY_
 
 https://realpython.com/
 
