@@ -34,7 +34,7 @@ gives us the data for all choices.
 Upon receiving the user input, the program executes a series of blocks to extract
 the information shown below:
 
-**Most common**:
+4. **Most common**:
 
 - Month
 - Day
@@ -43,9 +43,9 @@ the information shown below:
 - End station
 - Combination of start and end stations
 
-The next block calculates the Total Trip duration and the Average trip duration.
+5. The next block calculates the Total Trip duration and the Average trip duration.
 
-Then the program goes ahead and asks the user if they want
+6. Then the program goes ahead and asks the user if they want
 to view raw data (**5 rows of initial block code**) or not. Following the
 input received, the program prints the following details:
 
@@ -56,7 +56,7 @@ input received, the program prints the following details:
 - The youngest user
 - The most common birth year amongst users
 
-Once this is executed the next function in the program gives us
+7. Once this is executed the next function in the program gives us
 a plotting scenario in which, two variables are compared: *user age*
 and *trip duration* with the bikes.
 
